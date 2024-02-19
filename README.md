@@ -1,6 +1,6 @@
 This is a album managing project of Coding Ninjas made using Reactjs. User can add, delete, update albums and photographs.
 
-[Go Live to Album] - 
+[Go Live to Album] - https://eclectic-phoenix-548891.netlify.app/
 
 
 Installation and Run
